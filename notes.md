@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gaining Traction
 
 > Models and Attributes
