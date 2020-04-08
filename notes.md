@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gaining Traction
 
 > Models and Attributes
@@ -33,4 +34,3 @@
     - belongs_to :goal
     - belongs_to :user
 ---
-
